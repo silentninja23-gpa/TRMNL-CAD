@@ -1,1 +1,1 @@
-CAD design for the TRMNL device. it a little arcade machine made to at least fit it.
+Arcade style design hosing for the TRMNL device. The front has a part to hold the screen and the back is made to hold the ocmponents to run the device. This was made with TinkerCAD.
