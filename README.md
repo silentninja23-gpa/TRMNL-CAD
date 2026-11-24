@@ -1,4 +1,3 @@
 <img width="1066" height="701" alt="image" src="https://github.com/user-attachments/assets/f31972bd-26cd-4121-b172-35f274df6d04" />
 
-
-Arcade style design hosing for the TRMNL device. The front has a part to hold the screen and the back is made to hold the ocmponents to run the device. This was made with TinkerCAD.
+This is a custom arcade-style design housing created in TinkerCAD for the TRMNL e-ink display device. The enclosure is split into two main sections: a front bezel and housing engineered to securely hold and frame the screen, and a rear section designed to mount and organize the internal electronic components that power and run the device. Designed with a classic mini-arcade cabinet silhouette in mind, it gives the TRMNL a distinctive, nostalgic desktop or shelf presence while keeping the hardware neatly contained and accessible.
